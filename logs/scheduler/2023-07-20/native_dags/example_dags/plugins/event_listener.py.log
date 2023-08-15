@@ -1,0 +1,15 @@
+[2023-07-20T07:52:09.265+0300] {processor.py:157} INFO - Started process (PID=9433) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:52:09.267+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-20T07:52:09.268+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:09.267+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:52:09.272+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:52:09.288+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py took 0.028 seconds
+[2023-07-20T07:54:12.974+0300] {processor.py:157} INFO - Started process (PID=9663) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:54:13.003+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-20T07:54:13.005+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:13.005+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:54:13.009+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:54:13.027+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py took 0.058 seconds
+[2023-07-20T07:55:14.271+0300] {processor.py:157} INFO - Started process (PID=9813) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:55:14.291+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2023-07-20T07:55:14.293+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:14.292+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:55:14.296+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py
+[2023-07-20T07:55:14.313+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/event_listener.py took 0.047 seconds

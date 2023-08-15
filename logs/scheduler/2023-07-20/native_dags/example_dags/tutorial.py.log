@@ -1,0 +1,25 @@
+[2023-07-20T07:51:54.068+0300] {processor.py:157} INFO - Started process (PID=9425) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:51:54.069+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20T07:51:54.070+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:54.070+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:51:54.082+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:51:54.675+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:54.675+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-07-20T07:51:54.933+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:54.932+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:tutorial
+[2023-07-20T07:51:55.095+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:55.094+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-07-20T07:51:55.137+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:55.136+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:51:55.168+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:55.168+0300] {dag.py:2763} INFO - Creating ORM DAG for tutorial
+[2023-07-20T07:51:55.194+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:55.193+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-19T04:51:55.193212+00:00, run_after=2023-07-20T04:51:55.193212+00:00
+[2023-07-20T07:51:55.520+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 1.456 seconds
+[2023-07-20T07:54:05.305+0300] {processor.py:157} INFO - Started process (PID=9655) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:54:05.307+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20T07:54:05.308+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:05.308+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:54:05.321+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:54:05.347+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:05.347+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:05.380+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:05.380+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-19T04:54:05.380252+00:00, run_after=2023-07-20T04:54:05.380252+00:00
+[2023-07-20T07:54:05.708+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.408 seconds
+[2023-07-20T07:55:06.770+0300] {processor.py:157} INFO - Started process (PID=9805) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:55:06.772+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-20T07:55:06.773+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:06.772+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:55:06.785+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-07-20T07:55:06.811+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:06.811+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:06.843+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:06.843+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-19T04:55:06.842836+00:00, run_after=2023-07-20T04:55:06.842836+00:00
+[2023-07-20T07:55:07.062+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.298 seconds

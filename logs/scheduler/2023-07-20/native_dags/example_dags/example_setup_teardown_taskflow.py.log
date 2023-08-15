@@ -1,0 +1,10 @@
+[2023-07-20T07:52:37.157+0300] {processor.py:157} INFO - Started process (PID=9541) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:52:37.159+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2023-07-20T07:52:37.161+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:37.160+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:52:37.168+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:52:37.191+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.040 seconds
+[2023-07-20T07:54:29.425+0300] {processor.py:157} INFO - Started process (PID=9711) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:54:29.426+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2023-07-20T07:54:29.428+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:29.427+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:54:29.431+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-07-20T07:54:29.446+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.026 seconds

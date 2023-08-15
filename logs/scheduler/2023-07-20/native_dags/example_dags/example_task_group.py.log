@@ -1,0 +1,25 @@
+[2023-07-20T07:52:27.684+0300] {processor.py:157} INFO - Started process (PID=9444) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:52:27.686+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-07-20T07:52:27.687+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:27.687+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:52:27.702+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:52:28.241+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.240+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-07-20T07:52:28.521+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.521+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-07-20T07:52:28.686+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.685+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-07-20T07:52:28.717+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.717+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:52:28.741+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.741+0300] {dag.py:2763} INFO - Creating ORM DAG for example_task_group
+[2023-07-20T07:52:28.763+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:28.762+0300] {dag.py:3504} INFO - Setting next_dagrun for example_task_group to 2023-07-19T04:52:28.761842+00:00, run_after=2023-07-20T04:52:28.761842+00:00
+[2023-07-20T07:52:28.962+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 1.283 seconds
+[2023-07-20T07:54:25.772+0300] {processor.py:157} INFO - Started process (PID=9708) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:54:25.783+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-07-20T07:54:25.785+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:25.784+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:54:25.799+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:54:25.829+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:25.829+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:25.861+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:25.861+0300] {dag.py:3504} INFO - Setting next_dagrun for example_task_group to 2023-07-19T04:54:25.860696+00:00, run_after=2023-07-20T04:54:25.860696+00:00
+[2023-07-20T07:54:26.324+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.558 seconds
+[2023-07-20T07:55:26.960+0300] {processor.py:157} INFO - Started process (PID=9824) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:55:26.962+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-07-20T07:55:26.964+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:26.963+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:55:26.978+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-07-20T07:55:27.028+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:27.027+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:27.075+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:27.075+0300] {dag.py:3504} INFO - Setting next_dagrun for example_task_group to 2023-07-19T04:55:27.075239+00:00, run_after=2023-07-20T04:55:27.075239+00:00
+[2023-07-20T07:55:27.505+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.551 seconds

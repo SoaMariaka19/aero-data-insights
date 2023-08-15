@@ -1,0 +1,18 @@
+[2023-07-20T07:53:17.273+0300] {processor.py:157} INFO - Started process (PID=9592) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:53:17.274+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-20T07:53:17.276+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:17.276+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:53:17.296+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:53:17.987+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:17.987+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-07-20T07:53:18.280+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:18.280+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_complex
+[2023-07-20T07:53:18.504+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:18.503+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-07-20T07:53:18.549+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:18.548+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:53:18.584+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:18.583+0300] {dag.py:2763} INFO - Creating ORM DAG for example_complex
+[2023-07-20T07:53:18.602+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:18.602+0300] {dag.py:3504} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-20T07:53:19.236+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 1.968 seconds
+[2023-07-20T07:54:48.126+0300] {processor.py:157} INFO - Started process (PID=9764) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:54:48.159+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-07-20T07:54:48.174+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:48.173+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:54:48.207+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2023-07-20T07:54:48.307+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:48.306+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:48.358+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:48.357+0300] {dag.py:3504} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-07-20T07:54:48.564+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.444 seconds

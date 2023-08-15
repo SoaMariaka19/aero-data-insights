@@ -1,0 +1,10 @@
+[2023-07-20T07:52:36.207+0300] {processor.py:157} INFO - Started process (PID=9540) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:52:36.209+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-07-20T07:52:36.210+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:36.209+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:52:36.214+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:52:36.231+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py took 0.031 seconds
+[2023-07-20T07:54:28.742+0300] {processor.py:157} INFO - Started process (PID=9710) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:54:28.751+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-07-20T07:54:28.753+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:28.753+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:54:28.757+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-07-20T07:54:28.777+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_setup_teardown.py took 0.041 seconds

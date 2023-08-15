@@ -1,0 +1,25 @@
+[2023-07-20T07:52:23.273+0300] {processor.py:157} INFO - Started process (PID=9442) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:52:23.274+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-07-20T07:52:23.276+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:23.275+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:52:23.292+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:52:23.721+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:23.721+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_python_operator
+[2023-07-20T07:52:23.820+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:23.820+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_python_operator
+[2023-07-20T07:52:23.920+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:23.919+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_python_operator
+[2023-07-20T07:52:23.968+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:23.968+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:52:24.007+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:24.007+0300] {dag.py:2763} INFO - Creating ORM DAG for example_python_operator
+[2023-07-20T07:52:24.027+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:24.027+0300] {dag.py:3504} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-07-20T07:52:24.362+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 1.093 seconds
+[2023-07-20T07:54:23.294+0300] {processor.py:157} INFO - Started process (PID=9673) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:54:23.303+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-07-20T07:54:23.305+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:23.304+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:54:23.325+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:54:23.362+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:23.361+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:23.393+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:23.393+0300] {dag.py:3504} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-07-20T07:54:23.736+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.447 seconds
+[2023-07-20T07:55:23.981+0300] {processor.py:157} INFO - Started process (PID=9822) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:55:24.015+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-07-20T07:55:24.016+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:24.015+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:55:24.035+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2023-07-20T07:55:24.075+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:24.074+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:24.135+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:24.134+0300] {dag.py:3504} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-07-20T07:55:24.324+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.348 seconds

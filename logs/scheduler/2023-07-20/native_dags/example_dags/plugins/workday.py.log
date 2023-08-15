@@ -1,0 +1,15 @@
+[2023-07-20T07:52:00.371+0300] {processor.py:157} INFO - Started process (PID=9428) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:52:00.372+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-20T07:52:00.374+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:00.373+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:52:06.924+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:52:07.010+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 6.644 seconds
+[2023-07-20T07:54:09.295+0300] {processor.py:157} INFO - Started process (PID=9658) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:54:09.318+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-20T07:54:09.320+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:09.319+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:54:10.186+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:54:10.199+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.909 seconds
+[2023-07-20T07:55:10.709+0300] {processor.py:157} INFO - Started process (PID=9808) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:55:10.753+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-07-20T07:55:10.755+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:10.754+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:55:11.750+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2023-07-20T07:55:11.763+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 1.060 seconds

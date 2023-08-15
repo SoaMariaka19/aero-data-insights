@@ -1,0 +1,18 @@
+[2023-07-20T07:53:26.415+0300] {processor.py:157} INFO - Started process (PID=9596) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:53:26.416+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2023-07-20T07:53:26.418+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:26.417+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:53:26.429+0300] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:53:27.184+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.183+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2023-07-20T07:53:27.454+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.453+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2023-07-20T07:53:27.667+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.666+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2023-07-20T07:53:27.706+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.706+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:53:27.731+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.730+0300] {dag.py:2763} INFO - Creating ORM DAG for latest_only_with_trigger
+[2023-07-20T07:53:27.761+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:27.760+0300] {dag.py:3504} INFO - Setting next_dagrun for latest_only_with_trigger to 2023-07-20T00:53:27.760053+00:00, run_after=2023-07-20T04:53:27.760053+00:00
+[2023-07-20T07:53:28.056+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 1.647 seconds
+[2023-07-20T07:55:27.966+0300] {processor.py:157} INFO - Started process (PID=9825) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:55:27.991+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2023-07-20T07:55:27.993+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:27.992+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:55:28.004+0300] {processor.py:836} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-07-20T07:55:28.033+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:28.032+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:28.078+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:28.077+0300] {dag.py:3504} INFO - Setting next_dagrun for latest_only_with_trigger to 2023-07-20T00:55:28.077426+00:00, run_after=2023-07-20T04:55:28.077426+00:00
+[2023-07-20T07:55:28.396+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.435 seconds

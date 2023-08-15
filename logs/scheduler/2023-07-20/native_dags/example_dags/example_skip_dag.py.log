@@ -1,0 +1,18 @@
+[2023-07-20T07:52:50.032+0300] {processor.py:157} INFO - Started process (PID=9544) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:52:50.033+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-07-20T07:52:50.034+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:50.034+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:52:50.045+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:52:50.629+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:50.628+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-07-20T07:52:50.864+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:50.863+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-07-20T07:52:51.064+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:51.063+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-07-20T07:52:51.115+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:51.114+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:52:51.150+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:51.150+0300] {dag.py:2763} INFO - Creating ORM DAG for example_skip_dag
+[2023-07-20T07:52:51.173+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:51.172+0300] {dag.py:3504} INFO - Setting next_dagrun for example_skip_dag to 2023-07-19T04:52:51.172436+00:00, run_after=2023-07-20T04:52:51.172436+00:00
+[2023-07-20T07:52:52.557+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 2.529 seconds
+[2023-07-20T07:54:32.056+0300] {processor.py:157} INFO - Started process (PID=9713) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:54:32.058+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-07-20T07:54:32.060+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.059+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:54:32.074+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-07-20T07:54:32.101+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.101+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:32.133+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.133+0300] {dag.py:3504} INFO - Setting next_dagrun for example_skip_dag to 2023-07-19T04:54:32.132672+00:00, run_after=2023-07-20T04:54:32.132672+00:00
+[2023-07-20T07:54:32.272+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.222 seconds

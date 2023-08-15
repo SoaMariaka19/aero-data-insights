@@ -1,0 +1,18 @@
+[2023-07-20T07:52:30.079+0300] {processor.py:157} INFO - Started process (PID=9472) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:52:30.081+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2023-07-20T07:52:30.083+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:30.082+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:52:30.107+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:52:33.428+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:33.427+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_short_circuit_decorator
+[2023-07-20T07:52:33.781+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:33.780+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_short_circuit_decorator
+[2023-07-20T07:52:34.072+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:34.071+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_short_circuit_decorator
+[2023-07-20T07:52:34.115+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:34.114+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:52:34.152+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:34.151+0300] {dag.py:2763} INFO - Creating ORM DAG for example_short_circuit_decorator
+[2023-07-20T07:52:34.179+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:34.179+0300] {dag.py:3504} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-07-19T04:52:34.179022+00:00, run_after=2023-07-20T04:52:34.179022+00:00
+[2023-07-20T07:52:34.592+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 4.521 seconds
+[2023-07-20T07:54:27.274+0300] {processor.py:157} INFO - Started process (PID=9709) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:54:27.276+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2023-07-20T07:54:27.277+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:27.276+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:54:27.294+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_short_circuit_decorator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2023-07-20T07:54:27.324+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:27.324+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:27.355+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:27.355+0300] {dag.py:3504} INFO - Setting next_dagrun for example_short_circuit_decorator to 2023-07-19T04:54:27.354980+00:00, run_after=2023-07-20T04:54:27.354980+00:00
+[2023-07-20T07:54:27.497+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.229 seconds

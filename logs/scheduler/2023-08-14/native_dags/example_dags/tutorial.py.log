@@ -1,0 +1,469 @@
+[2023-08-14T13:32:48.401+0300] {processor.py:157} INFO - Started process (PID=10751) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:32:48.403+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:32:48.404+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:32:48.404+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:32:48.419+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:32:48.445+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:32:48.445+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:32:48.477+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:32:48.477+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:32:48.476791+00:00, run_after=2023-08-14T10:32:48.476791+00:00
+[2023-08-14T13:32:48.626+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.230 seconds
+[2023-08-14T13:33:55.818+0300] {processor.py:157} INFO - Started process (PID=10807) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:33:55.820+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:33:55.822+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:33:55.821+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:33:55.833+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:33:55.858+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:33:55.857+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:33:55.888+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:33:55.888+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:33:55.888004+00:00, run_after=2023-08-14T10:33:55.888004+00:00
+[2023-08-14T13:33:56.151+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.338 seconds
+[2023-08-14T13:34:40.662+0300] {processor.py:157} INFO - Started process (PID=10934) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:34:40.664+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:34:40.665+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:34:40.665+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:34:40.679+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:34:40.711+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:34:40.711+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:34:40.745+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:34:40.745+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:34:40.745073+00:00, run_after=2023-08-14T10:34:40.745073+00:00
+[2023-08-14T13:34:41.058+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.404 seconds
+[2023-08-14T13:35:29.269+0300] {processor.py:157} INFO - Started process (PID=11039) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:35:29.282+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:35:29.284+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:35:29.283+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:35:29.296+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:35:29.323+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:35:29.323+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:35:29.354+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:35:29.354+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:35:29.354229+00:00, run_after=2023-08-14T10:35:29.354229+00:00
+[2023-08-14T13:35:29.474+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.210 seconds
+[2023-08-14T13:36:31.248+0300] {processor.py:157} INFO - Started process (PID=11096) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:36:31.264+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:36:31.265+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:36:31.265+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:36:31.275+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:36:31.299+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:36:31.299+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:36:31.330+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:36:31.330+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:36:31.329738+00:00, run_after=2023-08-14T10:36:31.329738+00:00
+[2023-08-14T13:36:31.456+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.212 seconds
+[2023-08-14T13:37:27.976+0300] {processor.py:157} INFO - Started process (PID=11195) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:37:28.007+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:37:28.008+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:37:28.008+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:37:28.018+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:37:28.043+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:37:28.042+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:37:28.075+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:37:28.075+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:37:28.074818+00:00, run_after=2023-08-14T10:37:28.074818+00:00
+[2023-08-14T13:37:28.248+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.276 seconds
+[2023-08-14T13:38:28.795+0300] {processor.py:157} INFO - Started process (PID=11333) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:38:28.839+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:38:28.840+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:38:28.840+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:38:28.850+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:38:28.874+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:38:28.873+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:38:28.906+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:38:28.906+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:38:28.905734+00:00, run_after=2023-08-14T10:38:28.905734+00:00
+[2023-08-14T13:38:29.032+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.241 seconds
+[2023-08-14T13:39:34.854+0300] {processor.py:157} INFO - Started process (PID=11434) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:39:34.856+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:39:34.857+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:39:34.856+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:39:34.869+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:39:34.898+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:39:34.897+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:39:34.929+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:39:34.929+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:39:34.929219+00:00, run_after=2023-08-14T10:39:34.929219+00:00
+[2023-08-14T13:39:35.339+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.490 seconds
+[2023-08-14T13:40:32.540+0300] {processor.py:157} INFO - Started process (PID=11504) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:40:32.542+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:40:32.544+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:40:32.543+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:40:32.556+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:40:32.583+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:40:32.582+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:40:32.614+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:40:32.614+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:40:32.614164+00:00, run_after=2023-08-14T10:40:32.614164+00:00
+[2023-08-14T13:40:32.791+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.257 seconds
+[2023-08-14T13:41:25.889+0300] {processor.py:157} INFO - Started process (PID=11583) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:41:25.921+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:41:25.923+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:41:25.922+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:41:25.935+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:41:25.967+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:41:25.967+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:41:26.000+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:41:26.000+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:41:25.999790+00:00, run_after=2023-08-14T10:41:25.999790+00:00
+[2023-08-14T13:41:26.126+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.243 seconds
+[2023-08-14T13:42:22.710+0300] {processor.py:157} INFO - Started process (PID=11633) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:42:22.714+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:42:22.716+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:42:22.715+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:42:22.733+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:42:22.773+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:42:22.772+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:42:22.822+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:42:22.822+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:42:22.822297+00:00, run_after=2023-08-14T10:42:22.822297+00:00
+[2023-08-14T13:42:22.970+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.267 seconds
+[2023-08-14T13:43:15.637+0300] {processor.py:157} INFO - Started process (PID=11681) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:43:15.639+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:43:15.641+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:43:15.640+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:43:15.653+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:43:15.679+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:43:15.679+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:43:15.711+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:43:15.710+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:43:15.710621+00:00, run_after=2023-08-14T10:43:15.710621+00:00
+[2023-08-14T13:43:15.857+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.226 seconds
+[2023-08-14T13:44:16.617+0300] {processor.py:157} INFO - Started process (PID=11764) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:44:16.644+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:44:16.645+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:44:16.645+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:44:16.658+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:44:16.687+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:44:16.687+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:44:16.720+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:44:16.720+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:44:16.719747+00:00, run_after=2023-08-14T10:44:16.719747+00:00
+[2023-08-14T13:44:16.855+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.244 seconds
+[2023-08-14T13:45:24.371+0300] {processor.py:157} INFO - Started process (PID=11840) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:45:24.392+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:45:24.394+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:45:24.393+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:45:24.407+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:45:24.437+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:45:24.436+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:45:24.486+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:45:24.486+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:45:24.485878+00:00, run_after=2023-08-14T10:45:24.485878+00:00
+[2023-08-14T13:45:24.750+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.386 seconds
+[2023-08-14T13:46:27.724+0300] {processor.py:157} INFO - Started process (PID=11931) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:46:27.757+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:46:27.759+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:46:27.758+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:46:27.784+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:46:27.825+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:46:27.825+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:46:27.858+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:46:27.858+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:46:27.858309+00:00, run_after=2023-08-14T10:46:27.858309+00:00
+[2023-08-14T13:46:28.114+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.395 seconds
+[2023-08-14T13:47:28.288+0300] {processor.py:157} INFO - Started process (PID=11987) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:47:28.300+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:47:28.301+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:47:28.301+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:47:28.314+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:47:28.341+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:47:28.341+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:47:28.374+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:47:28.373+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:47:28.373520+00:00, run_after=2023-08-14T10:47:28.373520+00:00
+[2023-08-14T13:47:28.805+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.522 seconds
+[2023-08-14T13:48:29.305+0300] {processor.py:157} INFO - Started process (PID=12080) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:48:29.323+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:48:29.324+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:48:29.324+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:48:29.337+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:48:29.367+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:48:29.366+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:48:29.399+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:48:29.398+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:48:29.398548+00:00, run_after=2023-08-14T10:48:29.398548+00:00
+[2023-08-14T13:48:29.522+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.223 seconds
+[2023-08-14T13:49:31.441+0300] {processor.py:157} INFO - Started process (PID=12138) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:49:31.444+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:49:31.445+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:49:31.445+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:49:31.457+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:49:31.482+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:49:31.482+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:49:31.514+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:49:31.513+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:49:31.513481+00:00, run_after=2023-08-14T10:49:31.513481+00:00
+[2023-08-14T13:49:31.643+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.208 seconds
+[2023-08-14T13:50:37.328+0300] {processor.py:157} INFO - Started process (PID=12214) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:50:37.329+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:50:37.331+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:50:37.330+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:50:37.343+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:50:37.369+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:50:37.369+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:50:37.400+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:50:37.400+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:50:37.399981+00:00, run_after=2023-08-14T10:50:37.399981+00:00
+[2023-08-14T13:50:37.561+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.239 seconds
+[2023-08-14T13:51:43.134+0300] {processor.py:157} INFO - Started process (PID=12307) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:51:43.136+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:51:43.137+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:51:43.136+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:51:43.150+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:51:43.186+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:51:43.186+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:51:43.243+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:51:43.243+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:51:43.242689+00:00, run_after=2023-08-14T10:51:43.242689+00:00
+[2023-08-14T13:51:43.385+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.256 seconds
+[2023-08-14T13:52:44.128+0300] {processor.py:157} INFO - Started process (PID=12365) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:52:44.130+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:52:44.132+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:52:44.131+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:52:44.144+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:52:44.171+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:52:44.170+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:52:44.202+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:52:44.202+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:52:44.201911+00:00, run_after=2023-08-14T10:52:44.201911+00:00
+[2023-08-14T13:52:44.342+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.220 seconds
+[2023-08-14T13:53:48.848+0300] {processor.py:157} INFO - Started process (PID=12426) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:53:48.851+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:53:48.852+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:53:48.851+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:53:48.862+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:53:48.885+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:53:48.885+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:53:48.916+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:53:48.916+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:53:48.916270+00:00, run_after=2023-08-14T10:53:48.916270+00:00
+[2023-08-14T13:53:49.251+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.406 seconds
+[2023-08-14T13:54:54.501+0300] {processor.py:157} INFO - Started process (PID=12534) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:54:54.526+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:54:54.527+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:54:54.527+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:54:54.538+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:54:54.561+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:54:54.561+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:54:54.592+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:54:54.592+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:54:54.592234+00:00, run_after=2023-08-14T10:54:54.592234+00:00
+[2023-08-14T13:54:54.907+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.411 seconds
+[2023-08-14T13:56:00.965+0300] {processor.py:157} INFO - Started process (PID=12595) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:56:00.967+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:56:00.969+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:56:00.968+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:56:00.985+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:56:01.013+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:56:01.012+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:56:01.044+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:56:01.044+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:56:01.043836+00:00, run_after=2023-08-14T10:56:01.043836+00:00
+[2023-08-14T13:56:01.380+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.422 seconds
+[2023-08-14T13:57:11.028+0300] {processor.py:157} INFO - Started process (PID=12687) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:57:11.030+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:57:11.032+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:57:11.031+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:57:11.045+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:57:11.070+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:57:11.070+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:57:11.111+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:57:11.111+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:57:11.111001+00:00, run_after=2023-08-14T10:57:11.111001+00:00
+[2023-08-14T13:57:11.288+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.267 seconds
+[2023-08-14T13:58:12.817+0300] {processor.py:157} INFO - Started process (PID=12745) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:58:12.820+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:58:12.822+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:58:12.821+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:58:12.833+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:58:12.857+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:58:12.856+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:58:12.887+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:58:12.887+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:58:12.887246+00:00, run_after=2023-08-14T10:58:12.887246+00:00
+[2023-08-14T13:58:13.145+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.336 seconds
+[2023-08-14T13:59:17.598+0300] {processor.py:157} INFO - Started process (PID=12834) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:59:17.617+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T13:59:17.619+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:59:17.618+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:59:17.631+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T13:59:17.660+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:59:17.660+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T13:59:17.698+0300] {logging_mixin.py:150} INFO - [2023-08-14T13:59:17.698+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T10:59:17.697711+00:00, run_after=2023-08-14T10:59:17.697711+00:00
+[2023-08-14T13:59:18.029+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.437 seconds
+[2023-08-14T14:00:22.485+0300] {processor.py:157} INFO - Started process (PID=12917) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:00:22.487+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:00:22.489+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:00:22.488+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:00:22.501+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:00:22.528+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:00:22.528+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:00:22.560+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:00:22.560+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:00:22.560206+00:00, run_after=2023-08-14T11:00:22.560206+00:00
+[2023-08-14T14:00:22.713+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.233 seconds
+[2023-08-14T14:01:24.703+0300] {processor.py:157} INFO - Started process (PID=12974) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:01:24.706+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:01:24.708+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:01:24.707+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:01:24.718+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:01:24.742+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:01:24.742+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:01:24.780+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:01:24.780+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:01:24.779776+00:00, run_after=2023-08-14T11:01:24.779776+00:00
+[2023-08-14T14:01:25.068+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.369 seconds
+[2023-08-14T14:03:58.025+0300] {processor.py:157} INFO - Started process (PID=13697) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:03:58.027+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:03:58.028+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:03:58.027+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:03:58.039+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:03:58.068+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:03:58.068+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:03:58.102+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:03:58.102+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:03:58.102293+00:00, run_after=2023-08-14T11:03:58.102293+00:00
+[2023-08-14T14:03:58.365+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.345 seconds
+[2023-08-14T14:05:06.982+0300] {processor.py:157} INFO - Started process (PID=13769) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:06.983+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:05:06.985+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:06.984+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:06.998+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:07.025+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:07.025+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:05:07.057+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:07.056+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:05:07.056480+00:00, run_after=2023-08-14T11:05:07.056480+00:00
+[2023-08-14T14:05:07.414+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.438 seconds
+[2023-08-14T14:05:52.801+0300] {processor.py:157} INFO - Started process (PID=13802) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:52.822+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:05:52.824+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:52.823+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:52.837+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:05:52.898+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:52.898+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:05:53.043+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:05:53.042+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:05:53.041739+00:00, run_after=2023-08-14T11:05:53.041739+00:00
+[2023-08-14T14:05:53.361+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.565 seconds
+[2023-08-14T14:06:34.954+0300] {processor.py:157} INFO - Started process (PID=13846) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:06:34.957+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:06:34.959+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:06:34.958+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:06:34.970+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:06:35.003+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:06:35.002+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:06:35.035+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:06:35.034+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:06:35.034596+00:00, run_after=2023-08-14T11:06:35.034596+00:00
+[2023-08-14T14:06:35.334+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.386 seconds
+[2023-08-14T14:08:21.229+0300] {processor.py:157} INFO - Started process (PID=13987) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:08:21.330+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:08:21.332+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:08:21.331+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:08:21.352+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:08:21.389+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:08:21.389+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:08:21.426+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:08:21.425+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:08:21.425341+00:00, run_after=2023-08-14T11:08:21.425341+00:00
+[2023-08-14T14:08:21.710+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.486 seconds
+[2023-08-14T14:09:13.689+0300] {processor.py:157} INFO - Started process (PID=14066) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:09:13.740+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:09:13.742+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:09:13.741+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:09:13.757+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:09:13.784+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:09:13.783+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:09:13.816+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:09:13.816+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:09:13.815657+00:00, run_after=2023-08-14T11:09:13.815657+00:00
+[2023-08-14T14:09:13.995+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.313 seconds
+[2023-08-14T14:10:37.940+0300] {processor.py:157} INFO - Started process (PID=14907) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:10:37.941+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:10:37.943+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:10:37.942+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:10:37.955+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:10:37.981+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:10:37.981+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:10:38.012+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:10:38.012+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:10:38.012010+00:00, run_after=2023-08-14T11:10:38.012010+00:00
+[2023-08-14T14:10:38.316+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.381 seconds
+[2023-08-14T14:11:43.006+0300] {processor.py:157} INFO - Started process (PID=15084) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:11:43.019+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:11:43.042+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:11:43.041+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:11:43.055+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:11:43.086+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:11:43.086+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:11:43.134+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:11:43.134+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:11:43.133754+00:00, run_after=2023-08-14T11:11:43.133754+00:00
+[2023-08-14T14:11:43.325+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.325 seconds
+[2023-08-14T14:12:26.525+0300] {processor.py:157} INFO - Started process (PID=15146) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:12:26.552+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:12:26.554+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:12:26.553+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:12:26.566+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:12:26.596+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:12:26.596+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:12:26.629+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:12:26.629+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:12:26.629303+00:00, run_after=2023-08-14T11:12:26.629303+00:00
+[2023-08-14T14:12:26.769+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.249 seconds
+[2023-08-14T14:13:24.803+0300] {processor.py:157} INFO - Started process (PID=15273) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:13:24.806+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:13:24.809+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:13:24.808+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:13:24.824+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:13:24.853+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:13:24.852+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:13:24.898+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:13:24.897+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:13:24.897428+00:00, run_after=2023-08-14T11:13:24.897428+00:00
+[2023-08-14T14:13:25.249+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.451 seconds
+[2023-08-14T14:14:28.820+0300] {processor.py:157} INFO - Started process (PID=15363) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:14:28.822+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:14:28.823+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:14:28.822+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:14:28.836+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:14:28.867+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:14:28.867+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:14:28.899+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:14:28.898+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:14:28.898564+00:00, run_after=2023-08-14T11:14:28.898564+00:00
+[2023-08-14T14:14:29.214+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.400 seconds
+[2023-08-14T14:15:29.333+0300] {processor.py:157} INFO - Started process (PID=15536) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:15:29.336+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:15:29.337+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:15:29.337+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:15:29.350+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:15:29.377+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:15:29.376+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:15:29.408+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:15:29.407+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:15:29.407663+00:00, run_after=2023-08-14T11:15:29.407663+00:00
+[2023-08-14T14:15:29.602+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.274 seconds
+[2023-08-14T14:16:34.226+0300] {processor.py:157} INFO - Started process (PID=15634) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:16:34.237+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:16:34.239+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:16:34.238+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:16:34.252+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:16:34.281+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:16:34.280+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:16:34.314+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:16:34.314+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:16:34.314276+00:00, run_after=2023-08-14T11:16:34.314276+00:00
+[2023-08-14T14:16:34.422+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.201 seconds
+[2023-08-14T14:17:33.447+0300] {processor.py:157} INFO - Started process (PID=15719) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:17:33.472+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:17:33.474+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:17:33.473+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:17:33.486+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:17:33.515+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:17:33.515+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:17:33.547+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:17:33.547+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:17:33.547061+00:00, run_after=2023-08-14T11:17:33.547061+00:00
+[2023-08-14T14:17:33.856+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.413 seconds
+[2023-08-14T14:18:25.318+0300] {processor.py:157} INFO - Started process (PID=15883) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:18:25.338+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:18:25.340+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:18:25.339+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:18:25.353+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:18:25.383+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:18:25.383+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:18:25.418+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:18:25.418+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:18:25.418115+00:00, run_after=2023-08-14T11:18:25.418115+00:00
+[2023-08-14T14:18:25.791+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.479 seconds
+[2023-08-14T14:19:03.376+0300] {processor.py:157} INFO - Started process (PID=15926) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:19:03.393+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:19:03.394+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:19:03.394+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:19:03.407+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:19:03.436+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:19:03.436+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:19:03.468+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:19:03.467+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:19:03.467578+00:00, run_after=2023-08-14T11:19:03.467578+00:00
+[2023-08-14T14:19:03.684+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.313 seconds
+[2023-08-14T14:20:05.226+0300] {processor.py:157} INFO - Started process (PID=16008) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:20:05.228+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:20:05.229+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:20:05.229+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:20:05.242+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:20:05.268+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:20:05.267+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:20:05.299+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:20:05.299+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:20:05.299335+00:00, run_after=2023-08-14T11:20:05.299335+00:00
+[2023-08-14T14:20:05.470+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.250 seconds
+[2023-08-14T14:21:41.382+0300] {processor.py:157} INFO - Started process (PID=16103) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:21:41.384+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:21:41.386+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:21:41.385+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:21:41.399+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:21:41.425+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:21:41.424+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:21:41.456+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:21:41.456+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:21:41.455734+00:00, run_after=2023-08-14T11:21:41.455734+00:00
+[2023-08-14T14:21:41.593+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.217 seconds
+[2023-08-14T14:22:40.708+0300] {processor.py:157} INFO - Started process (PID=16160) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:22:40.746+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:22:40.748+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:22:40.747+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:22:40.760+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:22:40.790+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:22:40.790+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:22:40.824+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:22:40.824+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:22:40.824268+00:00, run_after=2023-08-14T11:22:40.824268+00:00
+[2023-08-14T14:22:40.969+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.266 seconds
+[2023-08-14T14:23:44.904+0300] {processor.py:157} INFO - Started process (PID=16227) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:23:44.907+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:23:44.908+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:23:44.908+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:23:44.923+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:23:44.955+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:23:44.955+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:23:44.998+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:23:44.998+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:23:44.997713+00:00, run_after=2023-08-14T11:23:44.997713+00:00
+[2023-08-14T14:23:45.123+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.223 seconds
+[2023-08-14T14:24:40.689+0300] {processor.py:157} INFO - Started process (PID=16503) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:24:40.692+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:24:40.694+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:24:40.693+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:24:40.706+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:24:40.731+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:24:40.731+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:24:40.763+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:24:40.762+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:24:40.762588+00:00, run_after=2023-08-14T11:24:40.762588+00:00
+[2023-08-14T14:24:40.917+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.233 seconds
+[2023-08-14T14:25:43.266+0300] {processor.py:157} INFO - Started process (PID=16652) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:25:43.302+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:25:43.303+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:25:43.303+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:25:43.314+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:25:43.337+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:25:43.337+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:25:43.369+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:25:43.368+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:25:43.368367+00:00, run_after=2023-08-14T11:25:43.368367+00:00
+[2023-08-14T14:25:43.493+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.232 seconds
+[2023-08-14T14:26:41.542+0300] {processor.py:157} INFO - Started process (PID=16738) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:26:41.580+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:26:41.582+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:26:41.581+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:26:41.594+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:26:41.622+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:26:41.622+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:26:41.657+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:26:41.657+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:26:41.656824+00:00, run_after=2023-08-14T11:26:41.656824+00:00
+[2023-08-14T14:26:41.784+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.248 seconds
+[2023-08-14T14:27:42.301+0300] {processor.py:157} INFO - Started process (PID=16864) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:27:42.334+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:27:42.336+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:27:42.335+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:27:42.348+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:27:42.378+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:27:42.378+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:27:42.411+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:27:42.411+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:27:42.410774+00:00, run_after=2023-08-14T11:27:42.410774+00:00
+[2023-08-14T14:27:42.772+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.476 seconds
+[2023-08-14T14:28:46.953+0300] {processor.py:157} INFO - Started process (PID=16987) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:28:46.956+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:28:46.957+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:28:46.957+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:28:46.970+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:28:46.996+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:28:46.996+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:28:47.027+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:28:47.027+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:28:47.026844+00:00, run_after=2023-08-14T11:28:47.026844+00:00
+[2023-08-14T14:28:47.174+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.226 seconds
+[2023-08-14T14:29:44.873+0300] {processor.py:157} INFO - Started process (PID=17136) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:29:44.899+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:29:44.902+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:29:44.901+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:29:44.914+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:29:44.944+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:29:44.944+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:29:44.977+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:29:44.977+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:29:44.976826+00:00, run_after=2023-08-14T11:29:44.976826+00:00
+[2023-08-14T14:29:45.115+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.247 seconds
+[2023-08-14T14:30:37.999+0300] {processor.py:157} INFO - Started process (PID=17241) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:30:38.028+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:30:38.030+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:30:38.029+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:30:38.042+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:30:38.066+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:30:38.066+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:30:38.098+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:30:38.098+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:30:38.098203+00:00, run_after=2023-08-14T11:30:38.098203+00:00
+[2023-08-14T14:30:38.228+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.234 seconds
+[2023-08-14T14:31:37.660+0300] {processor.py:157} INFO - Started process (PID=17327) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:31:37.691+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:31:37.692+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:31:37.692+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:31:37.705+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:31:37.735+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:31:37.734+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:31:37.768+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:31:37.768+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:31:37.767809+00:00, run_after=2023-08-14T11:31:37.767809+00:00
+[2023-08-14T14:31:37.913+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.258 seconds
+[2023-08-14T14:32:36.874+0300] {processor.py:157} INFO - Started process (PID=17447) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:32:36.876+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:32:36.878+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:32:36.877+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:32:36.890+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:32:36.916+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:32:36.916+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:32:36.947+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:32:36.947+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:32:36.947133+00:00, run_after=2023-08-14T11:32:36.947133+00:00
+[2023-08-14T14:32:37.106+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.238 seconds
+[2023-08-14T14:33:36.358+0300] {processor.py:157} INFO - Started process (PID=17565) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:33:36.361+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:33:36.363+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:33:36.362+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:33:36.375+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:33:36.400+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:33:36.400+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:33:36.431+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:33:36.431+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:33:36.430924+00:00, run_after=2023-08-14T11:33:36.430924+00:00
+[2023-08-14T14:33:36.569+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.216 seconds
+[2023-08-14T14:34:35.792+0300] {processor.py:157} INFO - Started process (PID=17619) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:34:35.795+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:34:35.796+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:34:35.796+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:34:35.813+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:34:35.845+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:34:35.845+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:34:35.887+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:34:35.887+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:34:35.886990+00:00, run_after=2023-08-14T11:34:35.886990+00:00
+[2023-08-14T14:34:36.059+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.274 seconds
+[2023-08-14T14:35:24.058+0300] {processor.py:157} INFO - Started process (PID=17839) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:35:24.078+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:35:24.079+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:35:24.079+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:35:24.092+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:35:24.136+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:35:24.136+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:35:24.172+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:35:24.171+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:35:24.171523+00:00, run_after=2023-08-14T11:35:24.171523+00:00
+[2023-08-14T14:35:24.322+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.270 seconds
+[2023-08-14T14:36:08.269+0300] {processor.py:157} INFO - Started process (PID=17946) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:36:08.271+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:36:08.273+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:36:08.273+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:36:08.292+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:36:08.323+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:36:08.323+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:36:08.355+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:36:08.354+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:36:08.354637+00:00, run_after=2023-08-14T11:36:08.354637+00:00
+[2023-08-14T14:36:08.607+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.344 seconds
+[2023-08-14T14:37:09.174+0300] {processor.py:157} INFO - Started process (PID=18045) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:37:09.175+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:37:09.177+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:37:09.176+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:37:09.189+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:37:09.215+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:37:09.215+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:37:09.247+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:37:09.247+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:37:09.246919+00:00, run_after=2023-08-14T11:37:09.246919+00:00
+[2023-08-14T14:37:10.102+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.934 seconds
+[2023-08-14T14:38:09.500+0300] {processor.py:157} INFO - Started process (PID=18196) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:09.532+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:38:09.554+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:09.553+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:09.570+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:09.607+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:09.607+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:38:09.641+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:09.641+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:38:09.641244+00:00, run_after=2023-08-14T11:38:09.641244+00:00
+[2023-08-14T14:38:09.956+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.461 seconds
+[2023-08-14T14:38:50.377+0300] {processor.py:157} INFO - Started process (PID=18259) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:50.401+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:38:50.402+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:50.402+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:50.415+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:38:50.444+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:50.444+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:38:50.478+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:38:50.477+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:38:50.477541+00:00, run_after=2023-08-14T11:38:50.477541+00:00
+[2023-08-14T14:38:50.719+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.347 seconds
+[2023-08-14T14:39:51.078+0300] {processor.py:157} INFO - Started process (PID=18441) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:39:51.091+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:39:51.093+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:39:51.092+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:39:51.105+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:39:51.134+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:39:51.134+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:39:51.166+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:39:51.166+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:39:51.166308+00:00, run_after=2023-08-14T11:39:51.166308+00:00
+[2023-08-14T14:39:51.312+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.240 seconds
+[2023-08-14T14:40:39.679+0300] {processor.py:157} INFO - Started process (PID=18600) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:40:39.704+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-14T14:40:39.705+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:40:39.705+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:40:39.719+0300] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2023-08-14T14:40:39.749+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:40:39.748+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-14T14:40:39.782+0300] {logging_mixin.py:150} INFO - [2023-08-14T14:40:39.782+0300] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-13T11:40:39.781917+00:00, run_after=2023-08-14T11:40:39.781917+00:00
+[2023-08-14T14:40:40.027+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.353 seconds

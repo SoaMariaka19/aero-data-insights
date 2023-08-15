@@ -1,0 +1,24 @@
+[2023-07-20T07:52:53.761+0300] {processor.py:157} INFO - Started process (PID=9552) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:52:53.763+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2023-07-20T07:52:53.764+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:53.763+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:52:53.772+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:52:54.422+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:54.421+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_external_task_marker_parent
+[2023-07-20T07:52:54.662+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:54.662+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_external_task_marker_parent
+[2023-07-20T07:52:54.932+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:54.931+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_external_task_marker_parent
+[2023-07-20T07:52:55.442+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.440+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_external_task_marker_child
+[2023-07-20T07:52:55.662+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.661+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_external_task_marker_child
+[2023-07-20T07:52:55.862+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.862+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_external_task_marker_child
+[2023-07-20T07:52:55.885+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.884+0300] {dag.py:2742} INFO - Sync 2 DAGs
+[2023-07-20T07:52:55.905+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.905+0300] {dag.py:2763} INFO - Creating ORM DAG for example_external_task_marker_parent
+[2023-07-20T07:52:55.917+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.917+0300] {dag.py:2763} INFO - Creating ORM DAG for example_external_task_marker_child
+[2023-07-20T07:52:55.961+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.960+0300] {dag.py:3504} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2023-07-20T07:52:55.962+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:52:55.961+0300] {dag.py:3504} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2023-07-20T07:52:56.304+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 2.547 seconds
+[2023-07-20T07:54:32.758+0300] {processor.py:157} INFO - Started process (PID=9714) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:54:32.761+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2023-07-20T07:54:32.763+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.762+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:54:32.777+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_external_task_marker_child', 'example_external_task_marker_parent']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2023-07-20T07:54:32.814+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.814+0300] {dag.py:2742} INFO - Sync 2 DAGs
+[2023-07-20T07:54:32.849+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.849+0300] {dag.py:3504} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2023-07-20T07:54:32.853+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:32.853+0300] {dag.py:3504} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2023-07-20T07:54:32.995+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.241 seconds

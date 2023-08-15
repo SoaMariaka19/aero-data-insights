@@ -1,0 +1,25 @@
+[2023-07-20T07:51:48.778+0300] {processor.py:157} INFO - Started process (PID=9384) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:51:48.780+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-07-20T07:51:48.781+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:48.781+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:51:48.792+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:51:49.424+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.423+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_trigger_controller_dag
+[2023-07-20T07:51:49.625+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.624+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_trigger_controller_dag
+[2023-07-20T07:51:49.816+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.815+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_trigger_controller_dag
+[2023-07-20T07:51:49.858+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.857+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:51:49.888+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.887+0300] {dag.py:2763} INFO - Creating ORM DAG for example_trigger_controller_dag
+[2023-07-20T07:51:49.924+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:49.924+0300] {dag.py:3504} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-07-20T07:51:50.251+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 1.478 seconds
+[2023-07-20T07:54:02.654+0300] {processor.py:157} INFO - Started process (PID=9653) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:54:02.657+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-07-20T07:54:02.658+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:02.658+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:54:02.666+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:54:02.694+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:02.693+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:54:02.726+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:02.726+0300] {dag.py:3504} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-07-20T07:54:02.941+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.291 seconds
+[2023-07-20T07:55:03.218+0300] {processor.py:157} INFO - Started process (PID=9803) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:55:03.257+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-07-20T07:55:03.258+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:03.258+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:55:03.265+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-07-20T07:55:03.295+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:03.295+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:03.344+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:03.344+0300] {dag.py:3504} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-07-20T07:55:03.933+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.720 seconds

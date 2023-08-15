@@ -1,0 +1,15 @@
+[2023-07-20T07:51:37.333+0300] {processor.py:157} INFO - Started process (PID=9379) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:51:37.334+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-07-20T07:51:37.336+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:51:37.335+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:51:37.339+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:51:37.354+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2023-07-20T07:53:56.639+0300] {processor.py:157} INFO - Started process (PID=9648) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:53:56.669+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-07-20T07:53:56.672+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:56.671+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:53:56.680+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:53:56.698+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.064 seconds
+[2023-07-20T07:54:56.591+0300] {processor.py:157} INFO - Started process (PID=9796) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:54:56.611+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-07-20T07:54:56.613+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:54:56.612+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:54:56.616+0300] {processor.py:838} WARNING - No viable dags retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-07-20T07:54:56.638+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/subdags/subdag.py took 0.052 seconds

@@ -1,0 +1,18 @@
+[2023-07-20T07:53:45.460+0300] {processor.py:157} INFO - Started process (PID=9636) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:53:45.462+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-07-20T07:53:45.464+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:45.463+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:53:45.485+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:53:46.303+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.303+0300] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_branch_python_operator_decorator
+[2023-07-20T07:53:46.505+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.504+0300] {manager.py:504} INFO - Created Permission View: can read on DAG:example_branch_python_operator_decorator
+[2023-07-20T07:53:46.718+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.717+0300] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_branch_python_operator_decorator
+[2023-07-20T07:53:46.759+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.758+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:53:46.773+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.773+0300] {dag.py:2763} INFO - Creating ORM DAG for example_branch_python_operator_decorator
+[2023-07-20T07:53:46.790+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:53:46.789+0300] {dag.py:3504} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-20T07:53:47.165+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 1.712 seconds
+[2023-07-20T07:55:38.652+0300] {processor.py:157} INFO - Started process (PID=9867) to work on /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:55:38.654+0300] {processor.py:826} INFO - Processing file /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-07-20T07:55:38.656+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:38.655+0300] {dagbag.py:541} INFO - Filling up the DagBag from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:55:38.677+0300] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-07-20T07:55:38.706+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:38.706+0300] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-20T07:55:38.741+0300] {logging_mixin.py:150} INFO - [2023-07-20T07:55:38.741+0300] {dag.py:3504} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-07-19T00:00:00+00:00, run_after=2023-07-20T00:00:00+00:00
+[2023-07-20T07:55:38.917+0300] {processor.py:179} INFO - Processing /home/soamariaka/.local/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.272 seconds
