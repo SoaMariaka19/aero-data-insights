@@ -26,7 +26,7 @@ def extract_flight_data(api_key):
         'travelClass': 'ECONOMY',
         'includedAirlineCode': 'MD',
         'excludedAirlineCodes': 'AF',
-        'nonStop': false,
+        'nonStop': 'false',
         'currencyCode': 'EUR',
         'maxPrice': 10,
         'max': 250
@@ -56,7 +56,7 @@ def extract_airport_city_search(api_key):
         'page[limit]': 4,
         'page[offset]': 2,
         'sort': 'analytics.travelers.score',
-        'view': LIGHT
+        'view': 'LIGHT'
     }
     response = requests.get(url, params=params, headers=headers)
 
@@ -103,11 +103,11 @@ def extract_flight_dates(api_key):
     'origin': 'MD',  
     'destination': 'AF',
     'departureDate': '2023-08-16',  
-    'oneWay': true,
+    'oneWay': 'true',
     'duration': 2.8, 
-    'nonStop': false,
+    'nonStop': 'false',
     'maxPrice': 10,
-    'viewBy': DATE
+    'viewBy': 'DATE'
     }
     response = requests.get(url, params=params, headers=headers)
 
@@ -132,7 +132,7 @@ def extract_flight_price_analysis_data(api_key):
         'destinationIataCode': 'AF',
         'departureDate': '2021-03-21',
         'currencyCode': 'AF',
-        'oneWay': true
+        'oneWay': 'true'
     }
     response = requests.get(url, params=params, headers=headers)
     
