@@ -1,9 +1,20 @@
+from configparser import ConfigParser
 import requests
 import pandas as pd
 from datetime import datetime
 import boto3
 from airflow import DAG
-from airflow.operators.python_operator import PythonOperator
+from airflow.operators.python import PythonOperator
+
+config = ConfigParser()
+config.read('config.ini')
+
+amadeus_client_id = config.get('AUTH', 'amadeus_client_id')
+amadeus_client_secret = config.get('AUTH', 'amadeus_client_secret')
+aws_access_key_id = config.get('AUTH', 'aws_access_key_id')
+aws_secret_access_key = config.get('AUTH', 'aws_secret_access_key')
+aws_region = config.get('AUTH', 'aws_region')
+
 
 default_args = {
     'owner': 'administrateur',
@@ -18,16 +29,14 @@ dag = DAG(
 )
 
 def run_daily_flight_price():
-    # Remplacez 'YOUR_CLIENT_ID' et 'YOUR_CLIENT_SECRET' par vos véritables informations d'authentification
-    CLIENT_ID = "rFhIuiYJEoRGwtXB0m6LekcFhCta6utw"
-    CLIENT_SECRET = "t8j81tZlGcFIWFap"
+   
 
     # Obtenez un jeton d'authentification
     token_url = "https://test.api.amadeus.com/v1/security/oauth2/token"
     token_payload = {
         "grant_type": "client_credentials",
-        "client_id": CLIENT_ID,
-        "client_secret": CLIENT_SECRET,
+        "client_id": amadeus_client_id,
+        "client_secret": amadeus_client_secret,
     }
 
     token_response = requests.post(token_url, data=token_payload)
@@ -65,9 +74,9 @@ def run_daily_flight_price():
                 df.to_csv(csv_file, index=False)
                 
                 # Configuration du client S3 en utilisant vos informations d'identification AWS et votre région
-                aws_access_key_id = 'AKIASL44WNUXNPUFN76H'
-                aws_secret_access_key = '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'
-                region_name = 'us-east-1'  # par exemple, 'us-east-1'
+                aws_access_key_id = aws_access_key_id
+                aws_secret_access_key = aws_secret_access_key
+                region_name = aws_region  # par exemple, 'us-east-1'
 
                 s3_client = boto3.client(
                     's3',
